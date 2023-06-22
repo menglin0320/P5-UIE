@@ -6,7 +6,7 @@ access their github repo through [P5 repo](https://github.com/jeykigung/P5.git)
 
 
 ## Introduction
-This work builds upon P5, a multi-task large language model-based recommender system. In addition, I incorporated user and item embeddings into the framework. Furthermore, I introduced several "attribute learning" tasks to train embeddings that are aware of attributes, thereby enhancing overall performance.
+This work leverages P5, a multi-task large language model-based recommender system, as its foundation. In this study, user and item embeddings were integrated into the framework to enhance the representation of users and items. Additionally, a set of "attribute learning" tasks were introduced, enabling the training of attribute-aware embeddings. This incorporation of attributes led to improvements in the overall performance of the recommender system.
 
 ## Requirements:
 - Python 3.9.7
